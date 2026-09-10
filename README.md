@@ -10,7 +10,7 @@ Serve this folder from a local web server because browser modules are blocked by
 python3 -m http.server 8000
 ```
 
-Open `http://localhost:8000` and move the pointer across the canvas. The ring grows and pulses faster as the pointer moves right.
+Open `http://localhost:8000` and move the pointer across the canvas. The percentage shows the pointer's horizontal position. The orange ring grows, becomes heavier, and pulses faster as the pointer moves right.
 
 ## File Jobs
 
